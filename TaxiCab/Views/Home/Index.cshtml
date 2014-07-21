@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Taxi Cab Fare";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="title">
+    <h1>Taxi Cab Fare Calculation</h1>
+</div>
+
+<h2>@ViewBag.Message</h2>
+
+<div ng-controller="MainController">
+    <table>
+        <tr>
+            <td>Number of minutes while travelling above 6 mph:</td>
+            <td><input type="text" ng-model="ride.minutesover6" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>Number of miles traveled while traveling below 6 mph:</td>
+            <td><input type="text" ng-model="ride.minutesbelow6" class ="form-control"/></td>
+        </tr>
+        <tr>
+            <td>Date of service:</td>
+            <td><input type="text" ng-model="ride.date" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>Time of start of ride:</td>
+            <td><input type="text" ng-model="ride.starttime" class="form-control"/></td>
+        </tr>
+    </table>
+    <div class="calcbtn">
+    <button class="btn btn-default" ng-click="calculate(ride)">Calculate</button>
+    </div>
+    <div ng-model="ride.result"></div>
+    @*<div style="color:red;" ng-show="error">Invalid data.</div>*@
+</div>

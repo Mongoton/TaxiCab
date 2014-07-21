@@ -1,0 +1,10 @@
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\TaxiCab.Tests.dll.config
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\TaxiCab.Tests.dll
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\TaxiCab.Tests.pdb
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\TaxiCab.dll
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\EntityFramework.dll
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\TaxiCab.pdb
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\bin\Debug\EntityFramework.xml
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\obj\Debug\TaxiCab.Tests.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\obj\Debug\TaxiCab.Tests.dll
+c:\users\ben\documents\visual studio 2012\Projects\TaxiCab\TaxiCab.Tests\obj\Debug\TaxiCab.Tests.pdb

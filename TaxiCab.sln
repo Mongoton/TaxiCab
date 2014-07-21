@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiCab", "TaxiCab\TaxiCab.csproj", "{E17EEB74-443F-4BF9-BFAC-C7AD4D8B2B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiCab.Tests", "TaxiCab.Tests\TaxiCab.Tests.csproj", "{23A5787F-B0D8-4CE7-90DF-3D3DC59FA2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17EEB74-443F-4BF9-BFAC-C7AD4D8B2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17EEB74-443F-4BF9-BFAC-C7AD4D8B2B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17EEB74-443F-4BF9-BFAC-C7AD4D8B2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17EEB74-443F-4BF9-BFAC-C7AD4D8B2B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A5787F-B0D8-4CE7-90DF-3D3DC59FA2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A5787F-B0D8-4CE7-90DF-3D3DC59FA2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A5787F-B0D8-4CE7-90DF-3D3DC59FA2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A5787F-B0D8-4CE7-90DF-3D3DC59FA2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
